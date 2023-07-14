@@ -2,8 +2,8 @@
 
 Greetings, weary traveler. Please, have a [glass](https://2townsciderhouse.com/cider/made-marion/) while you look around.
 
-- 🌱 Currently learning about: Kafka, analytics engineering, and data streaming [Gusto](https://gusto.com/) <br/>
-- 🎧 Currently listening to: [Melody's Echo Chamber (self-titled)](https://open.spotify.com/album/2FKVlcqyS9nzKEHrOzbuwb?si=nV246EYaQAW6Qsc3qRsXhg) & [Parcels (self-titled)](https://open.spotify.com/album/6tNAnVG8xrmMbINuWutrNy?si=wVN1bN5WSDGweyMJXyln1A) <br/>
+- 🌱 Currently learning about: Kafka, analytics engineering, and data streaming at [Gusto](https://gusto.com/) <br/>
+- 🎧 Currently listening to: [PetroDragonic Apocalypse; or Dawn of Eternal Night: An Annihilation of Planet Earth and the Beginning of Merciless Damnation  (King Gizzard & The Lizard Wizard)](https://open.spotify.com/album/53X6xpjjMDMfZ5IWMyonvC?si=dB0SLf4QQwiLMwgRbDEE-A) & [Calm Ya Farm (The Murlocs)](https://open.spotify.com/album/3K0e0lhiop6HlPHEnHkVw0?si=vvEnZUdSSru3NYPcoP_XbA) <br/>
 
 You can find me elsewhere online:
 
@@ -13,5 +13,3 @@ You can find me elsewhere online:
 - 👾 [Steam](https://steamcommunity.com/profiles/76561198070756921) <br/>
 
 Thanks for stopping by, and don't forget to do something kind today. ✌️
-
-- Carter
